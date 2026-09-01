@@ -70,19 +70,19 @@ O projeto visual priorizou:
 - Simplicidade;
 - Facilidade de navegação.
 
-[**Link da apresentação no figma**](https://www.figma.com/design/vniXQLkmkQ6tIxgFdSskrJ/Dev-Delas---Precifica?node-id=0-1&t=h03FvuqX0w1Q9cTv-1)
+📎[**Link da apresentação no figma**](https://www.figma.com/design/vniXQLkmkQ6tIxgFdSskrJ/Dev-Delas---Precifica?node-id=0-1&t=h03FvuqX0w1Q9cTv-1)
 
 ## Apresentação
 
 A apresentação acadêmica do projeto foi desenvolvida no **Canva**, reunindo os principais conceitos, objetivos, fluxos e resultados obtidos durante o desenvolvimento.
 
-**Link da apresentação no Canva: (https://canva.link/x1kqitzx9vtuzgp)**
+📎[**Link da apresentação no Canva:**](https://canva.link/x1kqitzx9vtuzgp)
 
 ## Documentação
 
 A documentação apresenta o desenvolvimento conceitual do PRECIFICA, contemplando o entendimento do problema, objetivos, cálculo tributário, diagramas, requisitos funcionais e não funcionais, regras de negócio, estrutura de dados, fluxo do usuário e propostas de evolução.
 
-**Link da documentação completa: (https://docs.google.com/document/d/1EgtC3j73qrqF9s8X8QTSZF1LInkUX2HCeibTKqqW7yk/edit?usp=sharing)**
+📎[**Link da documentação completa**](https://docs.google.com/document/d/1EgtC3j73qrqF9s8X8QTSZF1LInkUX2HCeibTKqqW7yk/edit?usp=sharing)
 
 ## Desenvolvimento
 
@@ -100,7 +100,7 @@ O projeto foi desenvolvido em equipe pelas estudantes:
 **Instituição:** Universidade de Marília — UNIMAR  
 **Ano:** 2026
 
-## 📌 Considerações Finais
+## Considerações Finais
 
 Logo, o PRECIFICA representa uma aplicação prática dos conhecimentos desenvolvidos ao longo da disciplina, articulando **pensamento analítico, modelagem de problemas, lógica e compreensão de processos reais**.
 
