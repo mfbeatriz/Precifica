@@ -70,19 +70,19 @@ O projeto visual priorizou:
 - Simplicidade;
 - Facilidade de navegação.
 
-**[Link do protótipo no FIGMA] (https://www.figma.com/design/vniXQLkmkQ6tIxgFdSskrJ/Dev-Delas---Precifica?node-id=0-1&t=h03FvuqX0w1Q9cTv-1)**
+[**Link da apresentação no figma**](https://www.figma.com/design/vniXQLkmkQ6tIxgFdSskrJ/Dev-Delas---Precifica?node-id=0-1&t=h03FvuqX0w1Q9cTv-1)
 
 ## Apresentação
 
 A apresentação acadêmica do projeto foi desenvolvida no **Canva**, reunindo os principais conceitos, objetivos, fluxos e resultados obtidos durante o desenvolvimento.
 
-**[Link da apresentação no Canva](https://canva.link/x1kqitzx9vtuzgp)**
+**Link da apresentação no Canva: (https://canva.link/x1kqitzx9vtuzgp)**
 
 ## Documentação
 
 A documentação apresenta o desenvolvimento conceitual do PRECIFICA, contemplando o entendimento do problema, objetivos, cálculo tributário, diagramas, requisitos funcionais e não funcionais, regras de negócio, estrutura de dados, fluxo do usuário e propostas de evolução.
 
-**[Link da documentação completa](https://docs.google.com/document/d/1EgtC3j73qrqF9s8X8QTSZF1LInkUX2HCeibTKqqW7yk/edit?usp=sharing)**
+**Link da documentação completa: (https://docs.google.com/document/d/1EgtC3j73qrqF9s8X8QTSZF1LInkUX2HCeibTKqqW7yk/edit?usp=sharing)**
 
 ## Desenvolvimento
 
@@ -106,4 +106,4 @@ Logo, o PRECIFICA representa uma aplicação prática dos conhecimentos desenvol
 
 O projeto demonstra, portanto, como informações fiscais e tributárias podem ser estruturadas para apoiar a formação de preços, ampliar a transparência e auxiliar processos de tomada de decisão.
 
->> **O preço informa. A transparência convence.** <<
+>> **O preço informa. A transparência convence.** 
